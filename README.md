@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @kroszczak, Bioinformatics student in Poland
-- 💻 Nokia Mobile Networks Working Student
 - 👀 I’m interested in music and (suprisingly enough) programming
 - 📫 You can reach me by mailing at roszczak.kacper@gmail.com
 <!---
